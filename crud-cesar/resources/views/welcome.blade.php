@@ -14,6 +14,7 @@
     </head>
     <body class="antialiased">
        <nav class="bg-red-200">
+        <a href="/registro" class="btn border-t-neutral-100">registrar en el crud</a>
         
        </nav>
     </body>

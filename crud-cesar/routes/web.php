@@ -18,3 +18,7 @@ Route::get('/', function () {
 });
 
 Route::resource('empleados','App\Http\Controllers\EmpleadoController');
+
+Route::get('/registro', function () {
+    return view('registro');
+});
